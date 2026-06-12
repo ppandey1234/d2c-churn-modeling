@@ -1,0 +1,51 @@
+{
+  "decision_threshold": {
+    "description": "The classification threshold was selected based on business requirements.",
+    "business_preference": "Higher recall was preferred because failing to identify a churn-risk customer has higher impact."
+  },
+  "important_features": [
+    "customer activity level",
+    "recent usage",
+    "support interactions",
+    "payment behavior",
+    "contract information"
+  ],
+  "limitations": {
+    "description": "The model depends on historical patterns and may degrade when customer behavior changes.",
+    "details": [
+      "depends on historical patterns",
+      "may degrade when customer behavior changes",
+      "cannot predict unexpected events"
+    ],
+    "recommendation": "Predictions should be reviewed before action."
+  },
+  "ethical_risks": {
+    "potential_risks": [
+      "unfair targeting",
+      "over-contacting customers",
+      "incorrect assumptions about customers"
+    ],
+    "disallowed_uses": [
+      "denying service",
+      "pricing changes",
+      "customer discrimination"
+    ]
+  },
+  "monitoring_requirements": {
+    "data_drift": "Check whether customer behavior changes.",
+    "prediction_drift": [
+      "churn probability",
+      "high-risk customer percentage"
+    ],
+    "business_outcomes": [
+      "actual churn rate",
+      "retention success"
+    ],
+    "model_performance": "Retrain when performance decreases."
+  },
+  "when_not_to_use": [
+    "input data is incomplete",
+    "customer behavior has changed significantly",
+    "decisions require human understanding beyond prediction"
+  ]
+}

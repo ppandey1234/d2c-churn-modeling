@@ -1,0 +1,178 @@
+[
+  {
+    "feature": "recency_days",
+    "importance": 0.18866822383302345
+  },
+  {
+    "feature": "last_visit_days_ago",
+    "importance": 0.14703716964092953
+  },
+  {
+    "feature": "monetary_180d",
+    "importance": 0.08175185334956074
+  },
+  {
+    "feature": "days_since_signup",
+    "importance": 0.05442839375233184
+  },
+  {
+    "feature": "product_views_30d",
+    "importance": 0.05387469708677285
+  },
+  {
+    "feature": "avg_discount_pct_180d",
+    "importance": 0.04728852330338561
+  },
+  {
+    "feature": "frequency_180d",
+    "importance": 0.039528481448891796
+  },
+  {
+    "feature": "sessions_30d",
+    "importance": 0.03712532384346821
+  },
+  {
+    "feature": "category_diversity_180d",
+    "importance": 0.028574939303970818
+  },
+  {
+    "feature": "avg_rating_180d",
+    "importance": 0.026885632073793176
+  },
+  {
+    "feature": "email_opens_30d",
+    "importance": 0.02435972611499564
+  },
+  {
+    "feature": "cart_adds_30d",
+    "importance": 0.020891828431298495
+  },
+  {
+    "feature": "wishlist_adds_30d",
+    "importance": 0.018455449488496548
+  },
+  {
+    "feature": "avg_resolution_hours_90d",
+    "importance": 0.016152976934442495
+  },
+  {
+    "feature": "campaign_clicks_30d",
+    "importance": 0.01447431946183778
+  },
+  {
+    "feature": "abandoned_carts_30d",
+    "importance": 0.013400392449470274
+  },
+  {
+    "feature": "return_rate_180d",
+    "importance": 0.012509072914367635
+  },
+  {
+    "feature": "age_group_25-34",
+    "importance": 0.008591251276736012
+  },
+  {
+    "feature": "loyalty_tier_missing",
+    "importance": 0.008162324051824706
+  },
+  {
+    "feature": "city_tier_Tier 2",
+    "importance": 0.008052450335905114
+  },
+  {
+    "feature": "preferred_category_Skin Care",
+    "importance": 0.007700839149665474
+  },
+  {
+    "feature": "city_tier_Tier 1",
+    "importance": 0.007373285949300127
+  },
+  {
+    "feature": "acquisition_channel_Instagram",
+    "importance": 0.0073322370868606586
+  },
+  {
+    "feature": "acquisition_channel_Marketplace",
+    "importance": 0.007314558400638681
+  },
+  {
+    "feature": "negative_ticket_rate_90d",
+    "importance": 0.007189184155581043
+  },
+  {
+    "feature": "acquisition_channel_Google Search",
+    "importance": 0.007180597379776553
+  },
+  {
+    "feature": "preferred_category_Baby Care",
+    "importance": 0.0071475641004726115
+  },
+  {
+    "feature": "loyalty_tier_Silver",
+    "importance": 0.007104515264240188
+  },
+  {
+    "feature": "age_group_18-24",
+    "importance": 0.007049814639749554
+  },
+  {
+    "feature": "acquisition_channel_Organic",
+    "importance": 0.006966254586703288
+  },
+  {
+    "feature": "preferred_category_Hair Care",
+    "importance": 0.006708839505751452
+  },
+  {
+    "feature": "preferred_category_Makeup",
+    "importance": 0.006593680511782633
+  },
+  {
+    "feature": "city_tier_Tier 3",
+    "importance": 0.0065841945495028
+  },
+  {
+    "feature": "ticket_count_90d",
+    "importance": 0.006465384167945811
+  },
+  {
+    "feature": "marketing_consent_Yes",
+    "importance": 0.006287535445216595
+  },
+  {
+    "feature": "age_group_35-44",
+    "importance": 0.006103070690100977
+  },
+  {
+    "feature": "acquisition_channel_Referral",
+    "importance": 0.006080606638059615
+  },
+  {
+    "feature": "marketing_consent_No",
+    "importance": 0.005809610120704765
+  },
+  {
+    "feature": "preferred_category_Fragrance",
+    "importance": 0.005522818809359628
+  },
+  {
+    "feature": "preferred_category_Wellness",
+    "importance": 0.00545023600434799
+  },
+  {
+    "feature": "loyalty_tier_Gold",
+    "importance": 0.0051182677329599064
+  },
+  {
+    "feature": "acquisition_channel_Influencer",
+    "importance": 0.004207685359446554
+  },
+  {
+    "feature": "age_group_45+",
+    "importance": 0.0040772075398456155
+  },
+  {
+    "feature": "loyalty_tier_Platinum",
+    "importance": 0.0024189831164849354
+  }
+]
